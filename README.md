@@ -1,7 +1,7 @@
 <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/2b919a7f-a885-421d-bfbb-ca51ee53c343" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/192c6767-a133-4355-ba76-2d21e3689146" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/7d519404-19ed-47c3-92ad-6c0f2f6603e4" alt="" width="250px" height="200px">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg" alt="" width="250px" height="200px">
+    <img src="https://media.licdn.com/dms/image/D5612AQETWNgJIA8_cA/article-cover_image-shrink_720_1280/0/1692716751179?e=2147483647&v=beta&t=57yvzbLCZ2WZX5pYjPAuBiakX9Qtaku2qHQ4_Lf4XcU" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/3c5cfd8c-d57f-4408-80cc-e789caefd50e" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/4d6b26b9-7bee-46c4-a9d3-ef84b71fb3a6" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/3a69a953-e93b-4731-afa5-a8a9ed8b0eff" alt="" width="250px" height="200px">
@@ -11,3 +11,4 @@
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/31388e50-deec-4d38-9ad6-af390adc25c3" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/ef7e6f7c-b78e-46df-bf9c-f898e2686aeb" alt="" width="250px" height="200px">
     <img src="https://github.com/Eshpolatov-Sardor/Eshpolatov-Sardor/assets/167778318/af186af9-28aa-47c5-b7f7-a1d5f53f0f5f" alt="" width="250px" height="200px">
+    <div id="map"></div>
