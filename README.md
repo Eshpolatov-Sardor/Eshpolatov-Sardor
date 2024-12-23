@@ -5,7 +5,7 @@
 `A Man Who Codes & Designs Using His Hidden Creativity.`
 
 <a href="#"><img src="assets/technologist.png" width="150"></a>
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu](https://portfoliya-eight.vercel.app/)" /> </p>
+<p align="center"> <a href="https://portfoliya-eight.vercel.app/">profile</a> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB DEVELOPER ◂</h2>
 </p>
