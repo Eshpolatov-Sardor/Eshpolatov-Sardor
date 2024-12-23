@@ -4,7 +4,7 @@
 
 `A Man Who Codes & Designs Using His Hidden Creativity.`
 
-<a href="#"><img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-users-icon-design-png-image_4271523.jpg" width="150"></a>
+<a href="#"><img src="https://png.pngtree.com/png-clipart/20240723/original/pngtree-flat-people-icon-illustration-vector-png-image_15612320.png" width="150"></a>
 <p align="center"> <a href="https://portfoliya-eight.vercel.app/">profile</a> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB DEVELOPER ◂</h2>
