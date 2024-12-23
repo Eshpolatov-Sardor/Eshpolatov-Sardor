@@ -7,21 +7,20 @@
 <a href="#"><img src="assets/technologist.png" width="150"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
-	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+	<h2 align="center">DEVELOPER ▸ WEB DEVELOPER ◂</h2>
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
 
 ## 🙋🏻‍♂️ **About Me**
 
-Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
-Most importantly, I'm a reliable designer you can rely on for all your design needs.
+A Creative Full Stack web developer and frontend specialist, I am dedicated to crafting engaging websites and applications. With a focus on user-centric design, creative development, and effective collaboration, I can also enhance brand presence through my frontend expertise. I've built over 50 WEB-APPs to date. Most importantly, I am a reliable frontend professional you can trust for all your frontend needs.
 
 <details>
     <summary>See more</summary>
     <a href="#"><img src="assets/astronaut.png" width="150"></a> <br>
-Apart from that, 🎓 I'm a dedicated 3rd year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, Mostly, I focus on Web design - Graphics design because I give more priority to my creativity or interest and building websites that captivate my target audience and get clients. 
-Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowledge, and creativity.
+Apart from that, 🎓 I'm a dedicated 3rd-year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, primarily, I focus on frontend development and visual design, because I prioritize my creativity and interest in building websites that captivate my target audience and attract clients. 
+Judge me as a 🌟 Creator and Learner who likes to share their learning, knowledge, and creativity.
 </details>
 </div><hr>
 
@@ -29,43 +28,43 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 ## 🤝🏻 **CONNECT WITH ME**
 
-<a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
+<a  href="">
     <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://x.com/warrior_aashuu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="mailto:hellow.ashutosh@gmail.com"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.instagram.com/warrior_aashuu/"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/@creativityofaashu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<a href="https://in.pinterest.com/codeaashu/"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
-<a href="https://hashnode.com/@codeaashu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
 </a>
-<a href="https://www.figma.com/@codeaashu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
-<a href="https://www.fiverr.com/warrior_aashuu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
 </a>
-<a href="https://www.reddit.com/user/warrior_aashuu/"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
 </a>
-<a href="https://discord.com/channels/@warrior_aashuu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<a href="https://dev.to/codeaashu"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
 </a>
-<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
+<a href=""> 
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a> 
 
