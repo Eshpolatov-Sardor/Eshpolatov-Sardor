@@ -1,4 +1,3 @@
-@@ -1,93 +1,75 @@
 <div align="center">
 
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
