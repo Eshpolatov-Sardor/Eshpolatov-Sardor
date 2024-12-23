@@ -14,7 +14,7 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-A Creative Full Stack web developer and frontend specialist, I am dedicated to crafting engaging websites and applications. With a focus on user-centric design, creative development, and effective collaboration, I can also enhance brand presence through my frontend expertise. I've built over 50 WEB-APPs to date. Most importantly, I am a reliable frontend professional you can trust for all your frontend needs.
+A Creative Frontend web developer and frontend specialist, I am dedicated to crafting engaging websites and applications. With a focus on user-centric design, creative development, and effective collaboration, I can also enhance brand presence through my frontend expertise. I've built over 50 WEB-APPs to date. Most importantly, I am a reliable frontend professional you can trust for all your frontend needs.
 
 <details>
     <summary>See more</summary>
