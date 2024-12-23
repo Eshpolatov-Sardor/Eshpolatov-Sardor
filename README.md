@@ -19,7 +19,7 @@ A Creative Full Stack web developer and frontend specialist, I am dedicated to c
 <details>
     <summary>See more</summary>
     <a href="#"><img src="assets/astronaut.png" width="150"></a> <br>
-Apart from that, 🎓 I'm a dedicated 3rd-year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, primarily, I focus on frontend development and visual design, because I prioritize my creativity and interest in building websites that captivate my target audience and attract clients. 
+Apart from that, 🎓 I'm a student at the Tashkent University of Information Technologies (TUIT), Karshi Branch. Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, primarily, I focus on frontend development and visual design, because I prioritize my creativity and interest in building websites that captivate my target audience and attract clients. 
 Judge me as a 🌟 Creator and Learner who likes to share their learning, knowledge, and creativity.
 </details>
 </div><hr>
