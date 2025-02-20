@@ -75,7 +75,6 @@ Judge me as a 🌟 Creator and Learner who likes to share their learning, knowle
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="codeaashu" /></p>
 </p>
 </div> <hr>
 
